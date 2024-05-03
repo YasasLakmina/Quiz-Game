@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mobile Game</string>
+    <string name="let_s_play">Let\'s Play</string>
+    <string name="highest_score">Highest Score</string>
+    <string name="restart_the_game">Restart the Game</string>
+    <string name="quiz_time">Quiz Time</string>
+    <string name="score_0">Score: 0</string>
+    <string name="play_again">Play Again</string>
+    <string name="game_over">Game Over</string>
+    <string name="try_again">Try Again</string>
+    <string name="better_luck_next_time">Better luck next time!</string>
+    <string name="you_ve_mastered_the_math_challenges">You\'ve mastered the math challenges!</string>
+    <string name="title">Guess The Flag</string>
+    <string name="won">You\'ve Won the Flage Challenges!</string>
+    <string name="won1">You\'ve Won the flag challenge!!!</string>
+</resources>
